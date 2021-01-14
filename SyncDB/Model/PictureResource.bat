@@ -1,0 +1,1 @@
+robocopy "\\IISSVR\\Published Files\Brothers_AMS\PictureResources" "C:\Program Files (x86)\Seiko IT Philippines\AMS_SyncDB\PictureResources" /MIR /FFT /Z /XA:H /W:5
